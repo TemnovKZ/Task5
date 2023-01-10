@@ -133,7 +133,6 @@ body {
   max-width: 100%;
   padding: 19px 16px 19px 0px;
   border-bottom: 1px solid #E8E8EA;
-  cursor: pointer;
 }
 .dropdown__img {
   width: 12px;
@@ -150,6 +149,7 @@ body {
           align-items: center;
   color: #4B4C5F;
   font-size: 16px;
+  cursor: pointer;
 }
 .dropdown__title:hover {
   color: #F47B56;
